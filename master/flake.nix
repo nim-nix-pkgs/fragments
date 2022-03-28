@@ -11,7 +11,6 @@
   inputs.src-fragments-master.ref   = "refs/heads/master";
   inputs.src-fragments-master.owner = "fragcolor-xyz";
   inputs.src-fragments-master.repo  = "fragments";
-  inputs.src-fragments-master.dir   = "";
   inputs.src-fragments-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
