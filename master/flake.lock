@@ -42,11 +42,11 @@
     "src-fragments-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1643529141,
-        "narHash": "sha256-UI02pveW8c3bwseLqCLEdI9iIw4IO0YLot7hEgb45F0=",
+        "lastModified": 1650544283,
+        "narHash": "sha256-+4fZ5QGt5fvwLQPYnRjQ4KMqVcm9Jz3qNWP4qYRl/KM=",
         "owner": "fragcolor-xyz",
         "repo": "fragments",
-        "rev": "1cb96505c537e925e700aa65f6f0da95219dd866",
+        "rev": "d13886e62c362d777e26760d6592b3d111f2bd82",
         "type": "github"
       },
       "original": {
